@@ -1,0 +1,15 @@
+by James Long
+
+Code for producing results in Finite Sample and Real Data sections of "Kernel Density Estimation with Berkson Error" by Long, El Karoui, and Rice.
+
+run.R runs all code to produce all tables and figures in manuscript
+
+== Finite Sample ==
+sim.R - makes tables and figures in main body of manuscript
+sim_appendix.R - makes tables in appendix (with estimated bandwidths)
+functions.R - computes and optimizes MISE, computes asymptotically opt h
+unit_tests.R - testing module for verifying accuracy of functions in functions.R
+
+== Real Data ==
+The data is contained in the folder data. The file watertown.R loads the data files and writes output
+to figs/.
