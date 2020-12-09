@@ -1,7 +1,19 @@
-by James Long
+Code to reproduce results in:
+
+Long, James P., Noureddine El Karoui, and John A. Rice. "Kernel density estimation with Berkson error." Canadian Journal of Statistics 44.2 (2016): 142-160.
+
+Available: https://onlinelibrary.wiley.com/doi/full/10.1002/cjs.11281
+
+Please cite that work if you use this code.
+
+
 
 == folders
 ms/ contains manuscript
 code/ code and data to produce all figures in manuscript
 
 code/readme file for more information on code
+
+
+
+Contact jplong@mdanderson.org with questions
